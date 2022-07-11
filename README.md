@@ -1,5 +1,10 @@
 ![1](https://github.com/delriog/delriog/blob/main/assets/1.png)
 
+### I'm an Computer Scientist Student!
+- 🔭 I’m currently studying Computer Science at Federal Technological University of Paraná!
+- 🔧 Currently I'm a developer at Tytotech
+- 📫 How to reach me: guilhermerio@alunos.utfpr.edu.br
+
 ### 🌱 I’m currently studying 
 &emsp;&emsp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -16,17 +21,4 @@
 ### :busts_in_silhouette: Social Media
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bernardo-del-rio/)&emsp;
-<!--
-**delriog/delriog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
