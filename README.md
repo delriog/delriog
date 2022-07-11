@@ -6,7 +6,7 @@ https://github.com/delriog/delriog/blob/main/assets/1.png
 ### :busts_in_silhouette: Social Media
 
   &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bernardo-del-rio/)&emsp;
-  ![](https://komarev.com/ghpvc/?username=JuanFSR&color=1c1c1c&style=plastic&label=views)
+  ![](https://komarev.com/ghpvc/?username=delriog&color=1c1c1c&style=plastic&label=views)
 <!--
 **delriog/delriog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
