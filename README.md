@@ -1,6 +1,4 @@
 ![1](https://github.com/delriog/delriog/blob/main/assets/1.png)
-https://github.com/delriog/delriog/blob/main/assets/1.png
-
 
 ### 🏆 Github Stats:
 <p align="center">
@@ -12,8 +10,7 @@ https://github.com/delriog/delriog/blob/main/assets/1.png
 
 ### :busts_in_silhouette: Social Media
 
-  &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bernardo-del-rio/)&emsp;
-  ![](https://komarev.com/ghpvc/?username=delriog&color=1c1c1c&style=plastic&label=views)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bernardo-del-rio/)&emsp;
 <!--
 **delriog/delriog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
