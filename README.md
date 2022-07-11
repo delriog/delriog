@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![1](https://github.com/delriog/delriog/blob/main/assets/1.png)
+https://github.com/delriog/delriog/blob/main/assets/1.png
 <!--
 **delriog/delriog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
