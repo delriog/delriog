@@ -1,7 +1,14 @@
-### Hi there 👋
 ![1](https://github.com/delriog/delriog/blob/main/assets/1.png)
 https://github.com/delriog/delriog/blob/main/assets/1.png
 
+
+### 🏆 Github Stats:
+<p align="center">
+    <a href="https://github.com/JuanFSR">
+        <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=JuanFSR&hide=stars&count_private=true&show_icons=true&theme=material-palenight" />
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFSR&count_private=true&hide=smalltalk&theme=material-palenight&layout=compact" /> 
+    </a>
+</p>
 
 ### :busts_in_silhouette: Social Media
 
