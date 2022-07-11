@@ -3,10 +3,9 @@
 https://github.com/delriog/delriog/blob/main/assets/1.png
 
 
-<div align="center">
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/guilherme-bernardo-del-rio/)]
+### :busts_in_silhouette: Social Media
 
-<div>
+  &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bernardo-del-rio/)&emsp;
 <!--
 **delriog/delriog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
