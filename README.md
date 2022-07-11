@@ -4,7 +4,7 @@ https://github.com/delriog/delriog/blob/main/assets/1.png
 
 
 <div align="center">
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/guilherme-bernardo-del-rio/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/guilherme-bernardo-del-rio/)]
 
 <div>
 <!--
