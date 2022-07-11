@@ -1,5 +1,10 @@
 ![1](https://github.com/delriog/delriog/blob/main/assets/1.png)
 
+### 🌱 I’m currently studying 
+&emsp;&emsp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+
+
 ### 🏆 Github Stats:
 <p align="center">
     <a href="https://github.com/JuanFSR">
