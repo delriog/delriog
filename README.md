@@ -12,7 +12,7 @@
 
 ### 🏆 Github Stats:
 <p align="center">
-    <a href="https://github.com/JuanFSR">
+    <a href="https://github.com/delriog">
         <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=delriog&hide=stars&count_private=true&show_icons=true&theme=material-palenight" />
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delriog&count_private=true&hide=smalltalk&theme=material-palenight&layout=compact" /> 
     </a>
