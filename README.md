@@ -1,6 +1,12 @@
 ### Hi there 👋
 ![1](https://github.com/delriog/delriog/blob/main/assets/1.png)
 https://github.com/delriog/delriog/blob/main/assets/1.png
+
+
+<div align="center">
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/guilherme-bernardo-del-rio/)
+
+<div>
 <!--
 **delriog/delriog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
