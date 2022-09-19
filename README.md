@@ -3,7 +3,7 @@
 ### I'm an Computer Scientist Student!
 - 🔭 I’m currently studying Computer Science at Federal Technological University of Paraná!
 - 🔧 Currently I'm a developer at Tytotech
-- 📫 How to reach me: guilhermerio@alunos.utfpr.edu.br
+- 📫 How to reach me: guilhermebdelrio@gmail.com
 
 ### 🌱 I’m currently studying 
 &emsp;&emsp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
