@@ -3,7 +3,7 @@
 ### I'm an Computer Scientist Student!
 - 🔭 I’m currently studying Computer Science at Federal Technological University of Paraná!
 - 🔧 Currently I'm a developer at Tytotech
-- 📫 How to reach me: guilhermebdelrio@gmail.com
+- 📫 How to reach me: dev.guilhermerio@gmail.com
 
 ### 💻 I’m currently working with:
 &emsp;&emsp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -33,5 +33,5 @@
 ### :busts_in_silhouette: Social Media
 
 &emsp;&emsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bernardo-del-rio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermebdelrio@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.guilhermerio@gmail.com)
 
